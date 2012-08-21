@@ -1,0 +1,6 @@
+name: CommandBlocker
+main: net.kaoslabs.commandblocker.CommandBlocker
+version: 1.0
+softdepend: []
+description: >
+             Add here...
